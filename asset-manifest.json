@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/HappyBirthday/static/css/main.d4de2586.chunk.css",
+    "main.js": "/HappyBirthday/static/js/main.927f9687.chunk.js",
+    "main.js.map": "/HappyBirthday/static/js/main.927f9687.chunk.js.map",
+    "runtime-main.js": "/HappyBirthday/static/js/runtime-main.6538f0d5.js",
+    "runtime-main.js.map": "/HappyBirthday/static/js/runtime-main.6538f0d5.js.map",
+    "static/js/2.eae1ac71.chunk.js": "/HappyBirthday/static/js/2.eae1ac71.chunk.js",
+    "static/js/2.eae1ac71.chunk.js.map": "/HappyBirthday/static/js/2.eae1ac71.chunk.js.map",
+    "index.html": "/HappyBirthday/index.html",
+    "static/css/main.d4de2586.chunk.css.map": "/HappyBirthday/static/css/main.d4de2586.chunk.css.map",
+    "static/js/2.eae1ac71.chunk.js.LICENSE.txt": "/HappyBirthday/static/js/2.eae1ac71.chunk.js.LICENSE.txt",
+    "static/media/gift.f42373c6.svg": "/HappyBirthday/static/media/gift.f42373c6.svg",
+    "static/media/img1.9f296bc4.JPG": "/HappyBirthday/static/media/img1.9f296bc4.JPG",
+    "static/media/img10.9347d536.jpg": "/HappyBirthday/static/media/img10.9347d536.jpg",
+    "static/media/img11.6bd35720.jpg": "/HappyBirthday/static/media/img11.6bd35720.jpg",
+    "static/media/img12.2210d5bd.jpg": "/HappyBirthday/static/media/img12.2210d5bd.jpg",
+    "static/media/img13.54010e48.JPG": "/HappyBirthday/static/media/img13.54010e48.JPG",
+    "static/media/img14.7a94568f.jpg": "/HappyBirthday/static/media/img14.7a94568f.jpg",
+    "static/media/img15.a5a9beb5.jpg": "/HappyBirthday/static/media/img15.a5a9beb5.jpg",
+    "static/media/img2.99897706.JPG": "/HappyBirthday/static/media/img2.99897706.JPG",
+    "static/media/img3.324e833e.JPG": "/HappyBirthday/static/media/img3.324e833e.JPG",
+    "static/media/img4.3efa2008.JPG": "/HappyBirthday/static/media/img4.3efa2008.JPG",
+    "static/media/img5.200acab2.JPG": "/HappyBirthday/static/media/img5.200acab2.JPG",
+    "static/media/img6.06e63492.jpg": "/HappyBirthday/static/media/img6.06e63492.jpg",
+    "static/media/img7.416544ed.JPG": "/HappyBirthday/static/media/img7.416544ed.JPG",
+    "static/media/img8.4dfad59e.jpg": "/HappyBirthday/static/media/img8.4dfad59e.jpg",
+    "static/media/img9.3755f8ab.jpg": "/HappyBirthday/static/media/img9.3755f8ab.jpg",
+    "static/media/profile3.512523ea.png": "/HappyBirthday/static/media/profile3.512523ea.png",
+    "static/media/rush4.jpg": "/HappyBirthday/static/media/rush4.ba8f8c67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6538f0d5.js",
+    "static/js/2.eae1ac71.chunk.js",
+    "static/css/main.d4de2586.chunk.css",
+    "static/js/main.927f9687.chunk.js"
+  ]
+}
