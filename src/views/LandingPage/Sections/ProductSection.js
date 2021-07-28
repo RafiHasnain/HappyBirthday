@@ -25,9 +25,9 @@ export default function ProductSection() {
         <GridItem xs={12} sm={12} md={8}>
           <h2 className={classes.title}>Let{"'"}s talk </h2>
           <h5 className={classes.description} style={{ padding: "20px" }}>
-            It{"'"}s a pandemic situation that{"'"}s why I am not able to
-            celebrate your birthday. Consider this as a gift from me 🎁. I love
-            you 😘
+            We are in a pandemic situation hence I am not able to celebrate your
+            birthday with you. Consider this to be a gift from me 🎁. I love you
+            😘
           </h5>
         </GridItem>
       </GridContainer>

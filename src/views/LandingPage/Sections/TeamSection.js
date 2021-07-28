@@ -47,8 +47,8 @@ export default function TeamSection() {
               </h4>
               <CardBody>
                 <p className={classes.description}>
-                  I am a web developer you{"'"}ve already know. But you don{"'"}
-                  t know I am a full-time best friend, boyfriend, sandbag, baby
+                  I am a web developer you already know. What you don{"'"}t know
+                  is that I am a full-time best friend, boyfriend, sandbag, baby
                   teether😬 , etc. Btw don{"'"}t read this section. Because it
                   {"'"}s all about you(her) and not about me.
                 </p>

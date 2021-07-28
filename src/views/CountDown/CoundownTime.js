@@ -46,8 +46,8 @@ const renderer = ({ days, hours, minutes, seconds, completed }) => {
 };
 
 const CountdownTime = () => {
-  return <Countdown date={"2021-07-04T00:00:00"} renderer={renderer} />;
-  // return <Countdown date={Date.now() + 10000} renderer={renderer}></Countdown>;
+  //return <Countdown date={"2021-07-04T00:00:00"} renderer={renderer} />;
+  return <Countdown date={Date.now() + 5000} renderer={renderer}></Countdown>;
 };
 
 export default CountdownTime;
