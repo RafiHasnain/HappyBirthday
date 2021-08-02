@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HappyBirthday/static/css/main.d4de2586.chunk.css",
-    "main.js": "/HappyBirthday/static/js/main.698524ac.chunk.js",
-    "main.js.map": "/HappyBirthday/static/js/main.698524ac.chunk.js.map",
+    "main.js": "/HappyBirthday/static/js/main.22892554.chunk.js",
+    "main.js.map": "/HappyBirthday/static/js/main.22892554.chunk.js.map",
     "runtime-main.js": "/HappyBirthday/static/js/runtime-main.6538f0d5.js",
     "runtime-main.js.map": "/HappyBirthday/static/js/runtime-main.6538f0d5.js.map",
     "static/js/2.de92488e.chunk.js": "/HappyBirthday/static/js/2.de92488e.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.6538f0d5.js",
     "static/js/2.de92488e.chunk.js",
     "static/css/main.d4de2586.chunk.css",
-    "static/js/main.698524ac.chunk.js"
+    "static/js/main.22892554.chunk.js"
   ]
 }
